@@ -1,2 +1,4 @@
 # Projet-Wetransfer
-Projet for alternate Wetransfer application (training program)
+Alternate Project for Wetransfer application (training program).
+
+Initial Group Project, detached by D.LEGER with token folder functions.
