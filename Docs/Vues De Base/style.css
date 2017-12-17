@@ -1,0 +1,46 @@
+body{
+	background-color: darkgrey;
+}
+
+main{
+	padding-top: 5%;
+}
+
+input{
+	padding-bottom: 1%;
+}
+
+input, textarea, button{	
+	margin-bottom: 2%;
+}
+
+#formupload{
+	padding-top: 15%;
+}
+
+#blocleft{
+	background-color: orange;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+#logo{
+	border-radius: 50%;
+	margin-bottom: 5%;
+}
+
+#msgconfirmup, #msgconfirmdl{
+	padding-top: 10%;
+}
+
+#btnagain{
+	margin-top: 5%;
+}
+
+#dest_message{
+	padding: 4%;
+}
+
+#zonefilename{
+	margin-bottom: 2%;
+}

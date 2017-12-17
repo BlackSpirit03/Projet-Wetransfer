@@ -1,0 +1,466 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "site_deveandcie/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 784,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site_deveandcie/app/Http/Controllers/ConfirmController.php",
+			"settings":
+			{
+				"buffer_size": 931,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site_deveandcie/app/Http/Controllers/UploadController.php",
+			"settings":
+			{
+				"buffer_size": 1393,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site_deveandcie/.env",
+			"settings":
+			{
+				"buffer_size": 628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site_deveandcie/resources/views/email.blade.php",
+			"settings":
+			{
+				"buffer_size": 616,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/Http",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/Http/Controllers",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/Http/Middleware",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/Mail",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/public",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/public/uploads",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/resources",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/resources/views",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/routes",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/storage"
+	],
+	"file_history":
+	[
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/Mail/SendMail.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/Http/Controllers/UploadController.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/Http/Controllers/ConfirmController.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/Http/Controllers/DownloadController.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/resources/views/email.blade.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/routes/web.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/resources/views/download.blade.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/resources/views/welcome.blade.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/vendor/mockery/mockery/tests/Mockery/Fixtures/SemiReservedWordsAsMethods.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/config/filesystems.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/resources/views/confirmup.blade.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/models/Transfers.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/app/Http/Controllers/HomePageController.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/.env",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/config/mail.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/resources/views/confirmdl.blade.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/public/uploads/Zje5qqvSpaDGUpwnPzGO4gWndtSZpLZxQS2R2UWt.html",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/public/uploads/E2KYmpedIdz1C3Fe3Htdsdx40KyhR25gSdLyeqAb.",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/storage/framework/views/b985d303eb9066dae339dc16f187675846fe4b6c.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/laravelmac/tuto/resources/views/test.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/laravelmac/tuto/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/Docs/Vues De Base/vue4.html",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/Docs/Vues De Base/vue3.html",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/Docs/Vues De Base/vue2.html",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/database/.gitignore",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Groupe/Projet_wetransfer/site_deveandcie/database/seeds/DatabaseSeeder.php",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/LEGER_Daniel_PortFolio/portfolio.sublime-project",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/LEGER_Daniel_PortFolio/.gitignore",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/LEGER_Daniel_PortFolio/docs/README.md",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/LEGER_Daniel_PortFolio/docs/others/test.txt",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/laravelmac/portfolio/portfolio.sublime-project",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/PortFolio/PortFolio Database/PortFolio Database_svg.py",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/PortFolio/PortFolio Database/PortFolio Database.tex",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/PortFolio/PortFolio MCD/PROTFOLIO_geo.json",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/PortFolio/PortFolio MCD/PROTFOLIO_svg.py",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/PortFolio/PortFolio MCD/PROTFOLIO_mysql.sql",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/PortFolio/PortFolio MCD/PROTFOLIO.md",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/PortFolio/PortFolio MCD/PROTFOLIO.txt",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/PortFolio/PortFolio MCD/PROTFOLIO_verbose.html",
+		"/Users/dleger/Desktop/AFORMAC03-DLEGER/SITES & EXERCICES/Projets/Individuel/PortFolio/PortFolio MCD/PROTFOLIO_data_dict.md",
+		"/Users/dleger/Desktop/test/index.html",
+		"/Users/dleger/Documents/WEB PAGES/test7.html",
+		"/Users/dleger/Documents/WEB PAGES/page1.html",
+		"/Users/dleger/Documents/WEB PAGES/TEST-HTML/page3.html",
+		"/Users/dleger/Documents/WEB PAGES/test8.html",
+		"/Users/dleger/Documents/WEB PAGES/test6.html",
+		"/Users/dleger/Documents/WEB PAGES/test5.html",
+		"/Users/dleger/Documents/WEB PAGES/test4.html",
+		"/Users/dleger/Documents/WEB PAGES/test3.html",
+		"/Users/dleger/Documents/WEB PAGES/test2.html",
+		"/Users/dleger/Documents/WEB PAGES/index.html",
+		"/Users/dleger/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/dleger/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/dleger/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/dleger/Library/Application Support/Sublime Text 3/Packages/Default/Distraction Free.sublime-settings",
+		"/Users/dleger/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dleger/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/dleger/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"upload",
+			"filevideo",
+			"() "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "site_deveandcie/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "site_deveandcie/app/Http/Controllers/ConfirmController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								845,
+								845
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "site_deveandcie/app/Http/Controllers/UploadController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								909,
+								909
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 56.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "site_deveandcie/.env",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "site_deveandcie/resources/views/email.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "dl_deveandcie.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 460.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
